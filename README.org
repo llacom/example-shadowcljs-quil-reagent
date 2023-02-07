@@ -1,4 +1,5 @@
 ** Shadow-CLJS + Quil + Reagent
+Live example: https://llacom.net/quil-reagent
 ** Installation
 *** Dependencies
 #+begin_src shell
