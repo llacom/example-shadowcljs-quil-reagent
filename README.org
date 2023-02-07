@@ -1,0 +1,12 @@
+** Shadow-CLJS + Quil + Reagent
+** Installation
+*** Dependencies
+#+begin_src shell
+npm install
+#+end_src
+
+*** Local Development
+
+#+begin_src shell
+npx shadow-cljs watch app
+#+end_src
